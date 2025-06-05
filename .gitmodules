@@ -1,0 +1,3 @@
+[submodule "k8sSimulator"]
+	path = k8sSimulator
+	url = https://github.com/kamilwojciechowskidef/K8sSim-Project
